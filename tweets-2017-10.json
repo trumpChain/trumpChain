@@ -1,0 +1,112 @@
+[
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"c1573f1d522a6ea16b4f49233204995b5e311d74bb669aab5204e9b96aa578e4\",\"merkleRoot\":\"d2195f4f2f7d5d45b79faa62e3fc71be59d074241e26460814532c17038f88b0\",\"proof\":[{\"right\":\"2b4cf5a6c9add1e697607cfdad3ef8b50abe0b549bc0e011eff35ade506ba1ac\"},{\"right\":\"b726ae3fe5a9609bde897cc9c6a034069d6c7c733ec9d2946882359d86b2e762\"},{\"right\":\"f29c7dd582265760e46157b2e8b5d90bcf4c7937750161f6d5d932edadbbcf42\"},{\"right\":\"02c5432c0523f70f1c131191ae2f6ca279eb08561fdb84ad1d6fb9bdf77e5c07\"},{\"right\":\"2cf3e430e55c9dcb7864c056667b4d5b1f09b4620e98dd2c3c84d685d6e9bc95\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"ca9cf909ea61d2c04a847c59521fc8f13cd9466c0235db6514666917ef94b6c2\"}]}"
+		},
+		"originalContent": {
+			"text": "\"Puerto Rico survived the Hurricanes, now a financial crisis looms largely of their own making.\" says Sharyl Attkisson. A total lack of.....",
+			"created_at": "Thu Oct 12 10:49:42 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"a85861d1de77ea20d91487c42f5420c598978e6864b8155199e4ca0b83607fef\",\"merkleRoot\":\"bf54855e0fda1b67fff6557ef3c2d5be6c1fef39eb8320a70ac6b19c6e184240\",\"proof\":[{\"right\":\"089fc8869f7e0b2e3b0fbc611f794faefadd2c98619eba572e8e8362ca94f195\"},{\"left\":\"1babef2130c90544343b977c7f7f54d09041fb8584ace0138299dbc35e634c09\"},{\"right\":\"a8239de663904713e76c02c8387f7aaebacfce683a812d9b7ac6340e02e3a153\"},{\"right\":\"c5908ba648a711196fa5812d426e1114533b5e5aae8c11e4f29b6c1605c7fb2d\"},{\"right\":\"3cc431830c45448122cd0c6b56d6c50c48d5b5d5797a2492404420d4e29bec5d\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"479f59cbc0664377d173e485c4df649f95388b49acc3e9791ae1e08ec94cca1a\"}]}"
+		},
+		"originalContent": {
+			"text": "...accountability say the Governor. Electric and all infrastructure was disaster before hurricanes. Congress to decide how much to spend....",
+			"created_at": "Thu Oct 12 10:58:53 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"c20a21561c6a894c091fb1116ae212524b1f3e2d2c5ff5b44b9f45830bdee776\",\"merkleRoot\":\"deb91b7ce794c5715baa2639195b1a9d951e13fced8b2f730a22c8a4d2792cfa\",\"proof\":[{\"right\":\"b5d510c4d8371429307f7250ce73457d247b5db023e9b8e6460fe2afec70fc33\"},{\"left\":\"2a5766aacfa8de92e1cb456b745fece29e7e993e3b36f60f285d26228d6cf63b\"},{\"right\":\"0c9e55302c01b10d307037f6ac0969c49baec1ea13a9e8404d3f6592ec5c9864\"},{\"right\":\"2912bc32c2d5b70d9ef3d6be8e734211b88820479fa143a3cf78e8cf227d6b40\"},{\"right\":\"904045dd30c2f034232c953d001b2ecac9445ae0c8f7126376e0a2f51f0a4eed\"},{\"right\":\"94730c594491fffca005fa205ef1475389abc3ff9cf4f4278d21b41039775776\"},{\"right\":\"daf65918cb42ad5f3fceaaa5a425250636a4f8a1a8e94c7f283f547347206d5e\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"a91bc62f651f823ad504dbb977a8669147050a29207679e6d49d9fd17319a2b6\"}]}"
+		},
+		"originalContent": {
+			"text": "...We cannot keep FEMA, the Military &amp; the First Responders, who have been amazing (under the most difficult circumstances) in P.R. forever!",
+			"created_at": "Thu Oct 12 11:07:00 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"6dde9957879edc443aed4fe229013f67f39fd2eb8327e402f5ab99db32c9ca1c\",\"merkleRoot\":\"e6bbc47a2a4bc11b4ace3001ddabd6ab8bdb9f1fd1bda181c491332ae2d5826a\",\"proof\":[{\"left\":\"192062146f66522b156543efe4af2b42bd0b05b62e738abe058951e242ddd612\"},{\"left\":\"9fe8826d67a305c0ee9a793df9ac429ed980f3c6816471bc54375ada26b2531a\"},{\"left\":\"48137805fbe5c98d32e39bc38a6fc4ea3a62f81c0445da930b4ec8240938f862\"},{\"right\":\"46bc29f4e3d83a6df5b946c0a194e695949d987b4d25ea72ebba9b1c5e7563c4\"},{\"left\":\"594d9a1cf37abe6951bbfa81f2aae1fdb2d0839fdeb7b35620e657c1157b7a36\"},{\"right\":\"7dda348152481c8b7295a677d527980d3018e7c2e3fc0f67bd60931e454f94ed\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"a47a042de20c7c6fa6952cec3bd576658152e51d876da0f24a81b8d98bc278bf\"}]}"
+		},
+		"originalContent": {
+			"text": "The Fake News Is going all out in order to demean and denigrate! Such hatred!",
+			"created_at": "Thu Oct 12 12:45:29 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"93d24d556c4d6af3f166fa4eea58e96e70b3383108acd61a251c1d17e131f1a9\",\"merkleRoot\":\"a5eb276701bc029d2eeab49ae02051fd7dea08964fa6d88380d16bd7517ad8ac\",\"proof\":[{\"left\":\"93d24d556c4d6af3f166fa4eea58e96e70b3383108acd61a251c1d17e131f1a9\"},{\"left\":\"70301d34944aed218a15e4a1c2705c3567b4e3ae7cc365711dba43dbf3feb38e\"},{\"left\":\"b5e4ec0413708d1bc5450e43e700ecee3ff1b8d48147d4512c3849a6eb04e0df\"},{\"left\":\"fb3d333338995c50d3ee7dfd25fc0072def1bb051428cc52ffb3705a312b3b57\"},{\"right\":\"03e6b6235692c5507ef9bfe6a367bcd0f0baa988f3a5f30e0e63ee1ad5f078f4\"},{\"right\":\"7d41108966c326d1d1695b00488adcc262b860de04ab898ba5e43b63c671fdde\"},{\"right\":\"681300fd4c59245814bcb23903f0b65cd9ee50e139bb025e36319af7cc2e7f88\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"fe1d29dbcfca3145d2f41bc615798c976422dc36e19f6bbf63e11c98f2b1b1de\"}]}"
+		},
+		"originalContent": {
+			"text": "The time has come to take action to IMPROVE access, INCREASE choices, and LOWER COSTS for HEALTHCARE! \n➡️… https://t.co/XyZbdtaRBu",
+			"created_at": "Thu Oct 12 17:06:26 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"5ba4795a96e12dabdd2cb0cf43b1b474e5c1deb2c5b911b8edc307f21c8ec39b\",\"merkleRoot\":\"0264796bc79ba9e124ec567c6473aa78705f5af7a344df6babf495184c1ef2e0\",\"proof\":[{\"right\":\"12b798216b9f9bf23442fba32740b4a4a7f215babc77747e5854caf6ec581dcc\"},{\"left\":\"0f3bac7f3b756f7b9c36a2b7f16f9143f2959626536b8bb7f77542303320a656\"},{\"right\":\"638ad53006b9348c992ae3dc17156feeb81d6e6bf3ce95f1327a2b533ba1f81a\"},{\"left\":\"cf8a9654174cc079aa092d2a62c2671595ffa3bc829595c15e689278e58ff3e7\"},{\"left\":\"c60d2d261e68728f30f67bf9760247ae7f65281c6b24ef0cee8f5998b6039e7e\"},{\"right\":\"1660e4a6b2e76b6e32f37d5417ea19bfefe49598ae3b81250cf303bb91b81573\"},{\"right\":\"1e386303867585b7abf09ef476cfe023befd5a484d8929c7d67574b271700c14\"},{\"right\":\"db080758507dfdcfede9cbf044762f0662f4e7ccfe7793c6187a45db9b9d5279\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"17a223c584dd3861847618d90e00178d095562fdfd43c1b59e0866da5e42bffb\"}]}"
+		},
+		"originalContent": {
+			"text": "We need a tax system that is FAIR to working FAMILIES &amp; that encourages companies to STAY in AMERICA, GROW in AMERI… https://t.co/JshQ8cLMS3",
+			"created_at": "Thu Oct 12 18:17:40 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"c65eb0a547f778263188bb3de4d1dfec0dac282bc6378c38262e60634cec4d24\",\"merkleRoot\":\"377e44132e799182dc2b35a006e0836832b6620dd91ba0ca6c14200e30239127\",\"proof\":[{\"left\":\"27b158d396d336c43af6643f6ddef5c1a70d232af7e7c8a512e8392e575bcc5f\"},{\"left\":\"db09a68197b96157ffe02f8311ae535c7e040d283e4b71b0014f73a7806d0d6e\"},{\"right\":\"bd1463c6dd33dca143ca5d9c5350621601a600cfecc84c9d955e2381c78950ac\"},{\"right\":\"72852973f8116b98172de5f5c43559c923332a07566d7c7ecc86039e1069bf5a\"},{\"right\":\"96206b33538ab73a6eb9efa883a38250db2b417dbd82381691ba5fd66d87f8ca\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"65c7cffe6fa7bb6e2d4c401bd45a33712aa72cc76d984c34330bfaf01c69501c\"}]}"
+		},
+		"originalContent": {
+			"text": "Happy #NationalFarmersDay!\n📸https://t.co/dN39R1IMlA https://t.co/QbUG1pztaI",
+			"created_at": "Thu Oct 12 20:19:32 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"1763a4ffdf195e24c36e3300cbb498c694fe29765c829c0a89d4c0c515d53444\",\"merkleRoot\":\"33be9ddc62569ae8b0c2e3d9f4346863056e2ad62a71ded5244debca8d37facd\",\"proof\":[{\"right\":\"0b2bcf9d2e585000149dc7802551d525a84053a9a21ad35f6eb95b093952d0c3\"},{\"left\":\"09538091ab8c55644311574ccbdf8b4cc6237e2befd4fee5c3704eb0cca5804b\"},{\"right\":\"f8591713dcdcd3eb7a81d17a0e211b0df1814ccc19923e63ecf145f53af509fa\"},{\"left\":\"b9879e5b421d82c3c70139ff2153e1d80ed86173e8c5d18a3d5c30b5880c867a\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"c2f215241d3e428e93a7308ac43b05a8f4bd9df997240c8c17fd993f30270479\"}]}"
+		},
+		"originalContent": {
+			"text": "People are just now starting to find out how dishonest and disgusting (FakeNews) @NBCNews is. Viewers beware. May be worse than even @CNN!",
+			"created_at": "Fri Oct 13 00:12:59 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"1a60ebd44810575c2aea9a050c82ece1d8489601b896957997fefce8dd411272\",\"merkleRoot\":\"091327f77a208d0ac5c3d3f38688805ef7ccea7e3623aa00f96b30aa73ab097e\",\"proof\":[{\"left\":\"6db74187a332300bee06d6c389eeef7f4782ce4df82a307cb658cc50bec3b4f1\"},{\"right\":\"aaa06eb4654520a7b9297add7f95f1b88f9f3e55eaccf9068462a8563d993256\"},{\"right\":\"d1bec21b00713ed83d7e9a19238f8998c7c0977e31bf4adb1c1c4474798ba831\"},{\"left\":\"7f304c9535c80367b430b79ab74bbb28537a930077bbbdf57adc517173184c26\"},{\"right\":\"7ecaed6ee37db8bedb2e7c6fef8c70a085e65a207237ebfb9de6c926c35cce82\"},{\"right\":\"089b7a1ea12066110b5545a8b6467d015d91a3baf7b65ef7b70af22e4da026c3\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"b6665cd4c72682a412fd9dc187d055232092a5c408c868064286496c5c02a5c7\"}]}"
+		},
+		"originalContent": {
+			"text": "It is time to take care of OUR COUNTRY, to rebuild OUR COMMUNITIES, and to protect our GREAT AMERICAN WORKERS!… https://t.co/YpEA52VOkd",
+			"created_at": "Fri Oct 13 01:18:23 +0000 2017",
+			"screen_name": "realDonaldTrump"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"951bac5b9ef1230d70f1378c099ec06c43faa747d3d50dc443de1be35f7b3121\",\"merkleRoot\":\"851aaf43bd240745bb752d3147ff7ae39fed054495087ad5461ce960a35e0778\",\"proof\":[{\"left\":\"a21f6ef73bfd2b3c55b5d1782303c0fb7dd26ac3cf228066f8314670c0c36694\"},{\"right\":\"f9d62c6ddd94bde4942912931c40f24b5656049af4a9c001c7b1d10334349764\"},{\"left\":\"8ce8bcb00b81a2429d025d820c26380db08d5a9d7234971e4fd39fa356ebd42c\"},{\"left\":\"b77606724fa345fb05c87d08542a1b0aac45a6e5455b517befe51c74c9a733c3\"},{\"left\":\"802da0bbe04bb17c045339d2d2143c404d87adb3d726076d7e1e2c1a64433ea2\"},{\"right\":\"e80da7dfb37725248302b3c5f40e29b296765db1fa4db7e1b0cecdabf7ec8a91\"},{\"right\":\"8d78538e799abe723463e888e257af2c1972e80495e386651c825768bbcb7872\"},{\"right\":\"1063357d25b78482b910d17daa93f635146f8d90580c3029ec8cef6ea69bf9b7\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"c341ad84f80918cae1e94f0dc9c8b72c19d20a67d989b4901ab3c3c07dac4ad6\"}]}"
+		},
+		"originalContent": {
+			"text": "Test1",
+			"created_at": "Fri Oct 13 02:28:06 +0000 2017",
+			"screen_name": "OlehK_test"
+		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"eb0f2f479926ed1406af50da7d3a86bf82b979efc739bfd0e7c314767b592773\",\"merkleRoot\":\"851aaf43bd240745bb752d3147ff7ae39fed054495087ad5461ce960a35e0778\",\"proof\":[{\"left\":\"0c59ec1edb5e3c0ba3947e3a184853c96b032326b24317953f83ddf9619ef0c7\"},{\"right\":\"10e7da5eb26c1b0ca6ab6042552464cd62c0b6ec890278ba5d0a6057897e7b92\"},{\"right\":\"6b0d83480cd05835b54c940be5be46776052223395181b31d286898630f55745\"},{\"right\":\"7d0a25765546bcf5c614f09b3e10c67eda42ffea5efac43226e4c18f5e8386f3\"},{\"left\":\"802da0bbe04bb17c045339d2d2143c404d87adb3d726076d7e1e2c1a64433ea2\"},{\"right\":\"e80da7dfb37725248302b3c5f40e29b296765db1fa4db7e1b0cecdabf7ec8a91\"},{\"right\":\"8d78538e799abe723463e888e257af2c1972e80495e386651c825768bbcb7872\"},{\"right\":\"1063357d25b78482b910d17daa93f635146f8d90580c3029ec8cef6ea69bf9b7\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"c341ad84f80918cae1e94f0dc9c8b72c19d20a67d989b4901ab3c3c07dac4ad6\"}]}"
+		},
+		"originalContent": {
+			"text": "Tweet 2",
+			"created_at": "Fri Oct 13 02:28:51 +0000 2017",
+			"screen_name": "OlehK_test"
+		}
+	}
+]
