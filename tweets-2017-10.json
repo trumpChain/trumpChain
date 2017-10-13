@@ -108,5 +108,15 @@
 			"created_at": "Fri Oct 13 02:28:51 +0000 2017",
 			"screen_name": "OlehK_test"
 		}
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"1d713f7a70a330e8e60fa8760234879c111006cbb27ac10214e09a80ba26364a\",\"merkleRoot\":\"a587f6940f9bc20e9a2491a7d37c6eb9481508df211c62a53459b2a9bf8a9a5b\",\"proof\":[{\"left\":\"ef86f3389877c0bccad726a50bfd6c4e44bb979f302c3f887137be75fb145f13\"},{\"left\":\"c272af9e4f6faf453d0abd599083e370877b8dbec10344077852b2624f5ca2b3\"},{\"right\":\"a3496c8e3ba86e529654b05a78edd183675c2f3a893f73107a1a3728cd2dc265\"},{\"right\":\"51bd385ad7c1cd9035fbf68053756d3065d46dc6787fb5aca4b839224a0f33f9\"},{\"left\":\"c193626dddbdd5045d8c3599516e99386f8694b9b23229f657b7e71983d2c37e\"},{\"right\":\"8e09efaf7e367594cc79efc1c793196ac627051d92685823fde670fa4caeb340\"},{\"left\":\"6f3219b2a03ad63b4c4968a9ff81a2080a705711e252d1b3a02543719f5bb1a7\"},{\"right\":\"309b66ad72212db6af588fd1aa9fd632bfe093c45fef254b8ad58c8d6b43f636\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"1cff36d7a5e0ce9ab90e4a56b6a9cf57bfa1427c2e7cbb86e20a75e31853a033\"}]}"
+		},
+		"originalContent": {
+			"text": "Tweet 3",
+			"created_at": "Fri Oct 13 03:14:30 +0000 2017",
+			"screen_name": "OlehK_test"
+		}
 	}
 ]
