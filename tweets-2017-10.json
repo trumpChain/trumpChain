@@ -1,0 +1,20 @@
+[
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"131e6c4d77973226bc501031d97df8e527d43e7ba13506d87572dc12a068d26e\",\"merkleRoot\":\"fcea36a505ed75d3bae46f2389572435f0fee01b95a4669dc231c80f17e8fc8e\",\"proof\":[{\"right\":\"986201b9c8b5dec188acfdb6b5c8c7b119384a63eaa88129ad7f9eb03103bb82\"},{\"left\":\"66ecf09bfee89a1575065dd3334ba5d8c7e1621a540ba1fc8f274603330b7064\"},{\"right\":\"ce0b62c9618dd56d03ac756b6ce13be5734199e6c4c40a897be28fb93cf63be8\"},{\"right\":\"33e6a5410255522a927e167c333aa5eb85528493669ca4496b20ef23ef8e0b58\"},{\"left\":\"6191c54657a96b1dc0595f55f421b9ce6d4ecd782e0eb0effabd4b2ae779c4e2\"},{\"right\":\"a33b2f7d1bc66df4bdecd53b449c6ef82c47cda0ee16d0e98df7948e8b230e3f\"},{\"left\":\"552beeef40e42cdd37b431cd0816d4149816659179bc543bbee6fe5a13a1d06c\"},{\"right\":\"46f72ea22e77c2b8b4babc3e9d60b81f349e2ec69756d5dfb1fbfa923a206b99\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"a711e604e1cc3a0b73d20e5ca0470f8cef6eacf7bfe85b952b9f48e0c4d47fac\"}]}"
+		},
+		"originalContent": "{\"created_at\":\"Wed Oct 18 02:43:58 +0000 2017\",\"screen_name\":\"FlammableGent\",\"text\":\"Test 1\"}"
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"e01a99884cd0ee0a3e6bcd99f5a062c3c83c205697d13bb9520ad039727d5c27\",\"merkleRoot\":\"fcea36a505ed75d3bae46f2389572435f0fee01b95a4669dc231c80f17e8fc8e\",\"proof\":[{\"left\":\"42eb6aaf7b946fc57bd44eded26dd9adfcc01e98d36fe5ccad47b3b66f03f5db\"},{\"left\":\"3ff177a5678e1e7f3c6c34a85eb4c37099e20a4f5b89408d2468e37f3776e408\"},{\"left\":\"e1c3ee31c818c3f1f588f71fe1a0d5228a4023982e4dfadf2ddebb30b312c567\"},{\"left\":\"de092abc3c6e1ff03435c1748b1fbc3a5e97811d407770d677b6e3aacbe94212\"},{\"right\":\"611932bae4c0031479a49f1818e34f09647dd517860d415915d8d198f0022f15\"},{\"right\":\"a33b2f7d1bc66df4bdecd53b449c6ef82c47cda0ee16d0e98df7948e8b230e3f\"},{\"left\":\"552beeef40e42cdd37b431cd0816d4149816659179bc543bbee6fe5a13a1d06c\"},{\"right\":\"46f72ea22e77c2b8b4babc3e9d60b81f349e2ec69756d5dfb1fbfa923a206b99\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"a711e604e1cc3a0b73d20e5ca0470f8cef6eacf7bfe85b952b9f48e0c4d47fac\"}]}"
+		},
+		"originalContent": "{\"created_at\":\"Wed Oct 18 02:44:09 +0000 2017\",\"screen_name\":\"FlammableGent\",\"text\":\"Test 2\"}"
+	},
+	{
+		"receipt": {
+			"receipt": "{\"@context\":\"https://w3id.org/chainpoint/v2\",\"type\":\"ChainpointSHA256v2\",\"targetHash\":\"7546924a635243daceb893951d17680e8e838725e388420b1c79ed2a8658df70\",\"merkleRoot\":\"fcea36a505ed75d3bae46f2389572435f0fee01b95a4669dc231c80f17e8fc8e\",\"proof\":[{\"right\":\"5eec331df7f63bd1ce029706b3676e9e9e50cd0ef5ad4c08aa66ac8523e58d3f\"},{\"left\":\"e762144ca11afe130d5abf0d22bc76ceb189077fd0c8e687c6d52e4c993891f3\"},{\"right\":\"1229eccff9cfddd33ab788ebfbab1652ddcc0771b1a84d98a7761a3229e3009f\"},{\"left\":\"de092abc3c6e1ff03435c1748b1fbc3a5e97811d407770d677b6e3aacbe94212\"},{\"right\":\"611932bae4c0031479a49f1818e34f09647dd517860d415915d8d198f0022f15\"},{\"right\":\"a33b2f7d1bc66df4bdecd53b449c6ef82c47cda0ee16d0e98df7948e8b230e3f\"},{\"left\":\"552beeef40e42cdd37b431cd0816d4149816659179bc543bbee6fe5a13a1d06c\"},{\"right\":\"46f72ea22e77c2b8b4babc3e9d60b81f349e2ec69756d5dfb1fbfa923a206b99\"}],\"anchors\":[{\"type\":\"BTCOpReturn\",\"sourceId\":\"a711e604e1cc3a0b73d20e5ca0470f8cef6eacf7bfe85b952b9f48e0c4d47fac\"}]}"
+		},
+		"originalContent": "{\"created_at\":\"Wed Oct 18 02:44:30 +0000 2017\",\"screen_name\":\"FlammableGent\",\"text\":\"Fucked up \\\"shit\\\"\\n\\nThat makes no sense /n\"}"
+	}
+]
